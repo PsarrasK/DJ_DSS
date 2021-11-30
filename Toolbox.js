@@ -94,7 +94,7 @@ function get_apple_snippet(title, artist, tid, element_id_to_change)												
 	{
 		var no_of_results = parseInt(temp_data.resultCount);														//Katametrisi ton apotelesmaton kai ekxorisi tou plithous se mia metavliti
 		//Sximatismos tou stoixeiou tis listas pou tha epistrafei an den vrethei audio preview ##1
-		var html_to_return = ' <li><img style="float: left; id="theImg" src="assets/vicon.png" onclick="Move_to_Playlist('+'\''+tid+'\''+')" /><div>'+title+' by <span style="color: #00c9c9;">'+artist+'</span><span style ="font-size: small;" title="Audio preview not available" class="fa-stack fa-lg"><i class="fa fa-play fa-stack-1x"></i><i style="color: #8b1a89;" class="fa fa-ban fa-stack-2x text-danger"></i></span></div></li><br><br>';
+		var html_to_return = ' <li><img title="Click to add track to Playlist" style="float: left; id="theImg" src="assets/vicon.png" onclick="Move_to_Playlist('+'\''+tid+'\''+')" /><div>'+title+' by <span style="color: #00c9c9;">'+artist+'</span><span style ="font-size: small; display: block; margin-left: 60px" title="Audio preview not available" class="fa-stack fa-lg"><i class="fa fa-play fa-stack-1x"></i> <i style="color: #8b1a89;" class="fa fa-ban fa-stack-2x text-danger"></i></span></div></li><br>';
 
 		if (no_of_results > 0)																						//An ta apotelesmata einai perissotera apo 1
 		{
