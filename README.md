@@ -38,9 +38,14 @@
 ## Screenshots
 Κάντε hover με το ποντίκι για να εμφανιστεί η περιγραφή των εικόνων
 
-![alt text](https://github.com/PsarrasK//master/screenshots/.png "Αρχική οθόνη")
-![alt text](https://github.com/PsarrasK//master/screenshots/.png "Αναζήτηση κομματιού στη βάση δεδομένων")
-![alt text](https://github.com/PsarrasK//master/screenshots/.png "Δημιουργία και οργάνωση Playlist (δεξιά λίστα)")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr1.png "Αρχική οθόνη")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr8.png "Αναζήτηση κομματιού στη βάση δεδομένων")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr2.png "Επιστροφή αποτελεσμάτων αναζήτησης")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr3.png "Δημιουργία και οργάνωση Playlist (δεξιά λίστα) part1 εύρεση διαδόχου")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr7.png "Δημιουργία και οργάνωση Playlist (δεξιά λίστα) part2 διπλότυπο")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr4.png "Δημιουργία και οργάνωση Playlist (δεξιά λίστα) part3 διαγραφή")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr5.png "Πληροφορίες και οδηγίες")
+![alt text](https://raw.githubusercontent.com/PsarrasK/DJ_DSS/main/screenshots/scr6.png "Αλλαγή χρωματισμού φόντου")
 
 ## Συμπεράσματα
 
