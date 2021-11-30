@@ -68,17 +68,34 @@ body{
 	align-items: center;
 }
 
-audio { width: 88%; display: block;}
+input[type=search] {
+	border-radius: 25px;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+	display: block;
+	text-shadow: 0 0 2px black;
+}
 
-::-webkit-input-placeholder {
-   text-align: center;
+audio {
+	border: 1px solid white;
+	border-radius: 25px;
+	width: 88%;
+	height: 33px;
+	display: block;
+	filter: invert(100%);
+}
+
+::-webkit-media-controls-enclosure {
+    border-radius: 25px;
+    background-color: rgba(210,210,210, 0.3);
 }
 
 ::-webkit-scrollbar {
     width: 8px;
 }
 ::-webkit-scrollbar-track {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
 }
 ::-webkit-scrollbar-thumb {
 	background-color: #00c9c9;
